@@ -8,8 +8,8 @@ I care most about turning a real user problem into a clear, thoughtful, and usab
 
 | Project | What it explores | Links |
 | --- | --- | --- |
-| **LoanShield** | A privacy-conscious campus borrowing-risk intervention prototype with a student flow and school support console. | [Repository](https://github.com/Rick-nmd/Sorcerer) · [Live demo](https://loanshield-demo.onrender.com/student) |
-| **Cravely** | A bilingual, local-first wellbeing check-in that supports healthier eating routines without dieting or weight tracking. | [Repository](https://github.com/Rick-nmd/dku-recovery-app2) · [Live app](https://effortless-peony-3814b0.netlify.app/) |
+| **LoanShield** | A privacy-conscious campus borrowing-risk intervention prototype with a student flow and school support console. | [Repository](https://github.com/Rick-1091/Sorcerer) · [Live demo](https://loanshield-demo.onrender.com/student) |
+| **Cravely** | A bilingual, local-first wellbeing check-in that supports healthier eating routines without dieting or weight tracking. | [Repository](https://github.com/Rick-1091/dku-recovery-app2) · [Live app](https://effortless-peony-3814b0.netlify.app/) |
 
 ## What I bring
 
