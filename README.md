@@ -1,4 +1,4 @@
-# Hi, I'm Yizhou Zhang 👋
+# Hi, I'm Rick 👋
 
 **Computer Science student at Duke Kunshan University (DKU)**, interested in human-centred digital products, responsible AI applications, and practical workflow automation.
 
